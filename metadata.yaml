@@ -1,0 +1,34 @@
+_repo: Our-Town-and-Civic-Duty_55908
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Boyer, Jane Allen
+    gutenberg_agent_id: '44041'
+    url: http://www.gutenberg.org/2009/agents/44041
+  - agent_name: Holloway, Charles
+    gutenberg_agent_id: '47046'
+    url: http://www.gutenberg.org/2009/agents/47046
+creator:
+  author:
+    agent_name: Fryer, Jane Eayre
+    birthdate: 1876
+    gutenberg_agent_id: '39315'
+    url: http://www.gutenberg.org/2009/agents/39315
+description: ''
+gutenberg_issued: '2017-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55908'
+  lccn: '19002274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Young American Readers
+subjects:
+- !lcsh 'Readers -- Citizenship'
+- !lcc 'PE'
+- !lcsh 'Citizenship -- Problems, exercises, etc.'
+- GITenberg
+title: Our Town and Civic Duty
+url: http://www.gutenberg.org/ebooks/55908
