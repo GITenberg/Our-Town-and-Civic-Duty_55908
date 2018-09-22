@@ -8,6 +8,9 @@ contributor:
   - agent_name: Holloway, Charles
     gutenberg_agent_id: '47046'
     url: http://www.gutenberg.org/2009/agents/47046
+covers:
+- cover_type: archival
+  image_path: 55908-h/images/cover.jpg
 creator:
   author:
     agent_name: Fryer, Jane Eayre
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '39315'
     url: http://www.gutenberg.org/2009/agents/39315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55908#Our-Town-and-Civic-Duty
 gutenberg_issued: '2017-11-07'
 gutenberg_type: Text
 identifiers:
